@@ -1,0 +1,21 @@
+# 依赖目录
+frontend/node_modules/
+backend/venv/
+
+# 环境文件
+.env
+.env.local
+
+# 日志文件
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 构建产物
+build/
+dist/
+
+# 测试文件
+coverage/
